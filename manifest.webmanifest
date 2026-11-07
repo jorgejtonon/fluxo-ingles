@@ -1,0 +1,32 @@
+{
+  "name": "Fluxo Inglês",
+  "short_name": "Fluxo",
+  "lang": "pt-BR",
+  "description": "Conversa em inglês com correção na hora, trilha do American English File 1, pronúncia, foto da atividade e revisão.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F2F5F7",
+  "theme_color": "#132A3F",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
